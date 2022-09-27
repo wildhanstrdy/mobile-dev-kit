@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wildhanstrdy.mobiledevkit.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wildhanstrdy.mobiledevkit.MyBundle
 
 class MyApplicationService {
 
